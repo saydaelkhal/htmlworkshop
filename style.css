@@ -1,12 +1,35 @@
 h1{
-    color: blue;
+    color: #ffffff ;
+    background-color: #00B3B2;
 }
 li{
     display: inline;
-}
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+}
 body {
     font-family: 'Roboto', sans-serif;
-  }
-  
+}
+body {
+    text-align: center;
+}
+h2 {
+    color: #00B3B2;
+}
+a:link{
+    color: #1E5878;
+    text-decoration: none;
+}
+img {
+    border-radius: 3%;
+}
+footer{
+    background-color: #00B3B2;
+}
+#topofpage{
+    color: #ffffff;
+}
+
+h2:hover {
+    color:#1E5878;
+    background-color: #ffffff;
+}
